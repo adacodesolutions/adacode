@@ -13,7 +13,7 @@ function MiniHeader() {
       <div className="left">
         <p>
           <FaClock />
-          Working: Monday - Friday.9:am-5:pm
+          Working: Monday - Friday. 9:am - 5:pm
         </p>
         <p>
           <FaLocationArrow /> Kozhikode, Kerala

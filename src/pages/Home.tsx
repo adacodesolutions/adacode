@@ -45,7 +45,7 @@ function Home() {
           </p>
           <a href="https://register.adacodesolutions.com">
             <div className="button_enroll">
-              Enroll 15 Days Master Class Just ₹ 1000/-
+              Master Class Just ₹ 1000/-
             </div>
           </a>
           <div className="home_button_wrapper">

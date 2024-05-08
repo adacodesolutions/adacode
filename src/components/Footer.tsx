@@ -43,6 +43,8 @@ function Footer() {
           <li> Full Stack Development</li>
           <li> Data Science</li>
           <li> Embedded Systems and IoT</li>
+          <li> Ethical Hacking</li>
+          <li> Cyber Security</li>
         </ul>
       </div>
       <div>
