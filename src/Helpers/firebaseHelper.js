@@ -1,5 +1,5 @@
 import { initializeApp } from "firebase/app";
-import 'firebase/installations';
+import "firebase/installations";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
@@ -12,7 +12,7 @@ const firebaseConfig = {
   measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
 };
 
-console.log("firebase connection successfull");
+console.log("firebase connection successfull", firebaseConfig);
 
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
